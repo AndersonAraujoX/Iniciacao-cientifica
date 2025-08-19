@@ -5,7 +5,6 @@
 - **Bolsista:** Anderson Araujo de Oliveira
 - **Orientador:** Prof. Dr. Miled Hassan Youssef Moussa
 - **Instituição:** Instituto de Física de São Carlos (IFSC), Universidade de São Paulo
-- **Data:** Dezembro, 2023
 
 ## Resumo
 
